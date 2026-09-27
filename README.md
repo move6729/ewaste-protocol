@@ -1,5 +1,8 @@
 # An Open, Zero-Rent Protocol for Distributed Edge Compute and Authorized Bandwidth Relaying
 
+Repository Name: ewaste-protocol
+Canonical Reference ID: EWASTE-v1.0 AKA ODEC-v1.0 (Open Distributed Edge Compute)
+
 Abstract
 Centralized machine learning (ML) infrastructure and commercial data-relaying networks face high capital expenditure, middleman rent-seeking, and rigid deployment topologies. This paper proposes an open, stateless, zero-rent protocol designed to orchestrate volunteer edge compute and authorized network relaying over heterogeneous legacy hardware. By eliminating native protocol tokens, middleman fees, and centralized control layers, the system enables direct peer-to-peer (P2P) coordination. We outline a modular architecture featuring localized, pre-loaded ML inference, probabilistic result verification, authorization-first network routing, and a concrete threat model for host safety and protocol integrity.
 1. Introduction and Economic Architecture

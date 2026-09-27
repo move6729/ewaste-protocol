@@ -1,6 +1,7 @@
 # An Open, Zero-Rent Protocol for Distributed Edge Compute and Authorized Bandwidth Relaying
 
 Repository Name: ewaste-protocol
+
 Canonical Reference ID: EWASTE-v1.0 AKA ODEC-v1.0 (Open Distributed Edge Compute)
 
 Abstract
